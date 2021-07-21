@@ -1,4 +1,4 @@
-package per.study.demo;
+package per.study.singleton.demo;
 
 /**
  *实现单例模式的三要素：

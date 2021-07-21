@@ -1,4 +1,4 @@
-package per.study.demo;
+package per.study.singleton.demo;
 
 /**
  * 使用静态内部类的方式实现单例模式（懒汉模式）:

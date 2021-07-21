@@ -1,4 +1,4 @@
-package per.study.demo;
+package per.study.singleton.demo;
 
 public class Main {
 

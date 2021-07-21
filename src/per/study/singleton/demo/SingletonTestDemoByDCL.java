@@ -1,4 +1,4 @@
-package per.study.demo;
+package per.study.singleton.demo;
 
 /* 懒汉模式：使用双重校验锁实现线程安全的单例模式 */
 public class SingletonTestDemoByDCL {
